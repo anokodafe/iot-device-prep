@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="c-practice" Database="" Version="10000">
-  <Project Name="week00" Path="c-practice/week00/week00.project" Active="No"/>
-  <Project Name="week01" Path="c-practice/week01/week01.project" Active="Yes"/>
+  <Project Name="day00" Path="c-practice/week00/week00.project" Active="Yes"/>
+  <Project Name="day01" Path="c-practice/week01/week01.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
-      <Project Name="week00" ConfigName="Release"/>
-      <Project Name="week01" ConfigName="Release"/>
+      <Project Name="day00" ConfigName="Release"/>
+      <Project Name="day01" ConfigName="Release"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
-      <Project Name="week00" ConfigName="Debug"/>
-      <Project Name="week01" ConfigName="Debug"/>
-      <Project Name="week01" ConfigName="Debug"/>
+      <Project Name="day00" ConfigName="Debug"/>
+      <Project Name="day01" ConfigName="Debug"/>
+      <Project Name="day01" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
