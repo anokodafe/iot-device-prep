@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="c-practice" Database="" Version="10000">
-  <Project Name="day00" Path="c-practice/week00/week00.project" Active="Yes"/>
-  <Project Name="day01" Path="c-practice/week01/week01.project" Active="No"/>
+  <Project Name="day00" Path="c-practice/day00/day00.project" Active="No"/>
+  <Project Name="day01" Path="c-practice/day01/day01.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release">
       <Environment/>

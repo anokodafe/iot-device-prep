@@ -1,0 +1,25 @@
+# CodeLite build output
+build-*/
+*.exe
+*.o
+*.obj
+*.out
+
+# CodeLite caches and session files
+.cache/
+.codelite/
+*.session
+*.tags
+*.mk
+
+# OS-generated junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor settings (optional)
+.vscode/
+
+# Modern C textbook (you don't need to share the PDF)
+ModernC.pdf
+*.pdf
