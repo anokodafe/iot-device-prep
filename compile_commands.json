@@ -1,7 +1,7 @@
 [{
-		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\main.c",
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c",
 		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01",
-		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\main.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day00\\variables.c",
 		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day00",
