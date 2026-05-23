@@ -1,18 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="c-practice" Database="" Version="10000">
+  <Project Name="day01" Path="c-practice/day01/day01.project" Active="No"/>
+  <Project Name="day02" Path="c-practice/day02/day02.project" Active="No"/>
+  <Project Name="day03" Path="day03/day03.project" Active="No"/>
+  <Project Name="day04" Path="day04/day04.project" Active="No"/>
   <Project Name="day00" Path="c-practice/day00/day00.project" Active="No"/>
-  <Project Name="day01" Path="c-practice/day01/day01.project" Active="Yes"/>
+  <Project Name="day05" Path="day05/day05.project" Active="No"/>
+  <Project Name="day06" Path="day06/day06.project" Active="No"/>
+  <Project Name="day07" Path="day07/day07.project" Active="No"/>
+  <Project Name="day08" Path="day08/day08.project" Active="No"/>
+  <Project Name="day09" Path="day09/day09.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Release">
-      <Environment/>
-      <Project Name="day00" ConfigName="Release"/>
-      <Project Name="day01" ConfigName="Release"/>
-    </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="day00" ConfigName="Debug"/>
       <Project Name="day01" ConfigName="Debug"/>
       <Project Name="day01" ConfigName="Debug"/>
+      <Project Name="day02" ConfigName="Debug"/>
+      <Project Name="day02" ConfigName="Debug"/>
+      <Project Name="day02" ConfigName="Debug"/>
+      <Project Name="day02" ConfigName="Debug"/>
+      <Project Name="day02" ConfigName="Debug"/>
+      <Project Name="day04" ConfigName="Debug"/>
+      <Project Name="day05" ConfigName="Debug"/>
+      <Project Name="day05" ConfigName="Debug"/>
+      <Project Name="day05" ConfigName="Debug"/>
+      <Project Name="day06" ConfigName="Debug"/>
+      <Project Name="day06" ConfigName="Debug"/>
+      <Project Name="day06" ConfigName="Debug"/>
+      <Project Name="day06" ConfigName="Debug"/>
+      <Project Name="day07" ConfigName="Debug"/>
+      <Project Name="day08" ConfigName="Debug"/>
+      <Project Name="day09" ConfigName="Debug"/>
+      <Project Name="day09" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="day00" ConfigName="Release"/>
+      <Project Name="day01" ConfigName="Release"/>
+      <Project Name="day02" ConfigName="Release"/>
+      <Project Name="day02" ConfigName="Release"/>
+      <Project Name="day02" ConfigName="Release"/>
+      <Project Name="day02" ConfigName="Release"/>
+      <Project Name="day02" ConfigName="Release"/>
+      <Project Name="day03" ConfigName="Release"/>
+      <Project Name="day05" ConfigName="Release"/>
+      <Project Name="day05" ConfigName="Release"/>
+      <Project Name="day05" ConfigName="Release"/>
+      <Project Name="day06" ConfigName="Release"/>
+      <Project Name="day06" ConfigName="Release"/>
+      <Project Name="day06" ConfigName="Release"/>
+      <Project Name="day06" ConfigName="Release"/>
+      <Project Name="day06" ConfigName="Release"/>
+      <Project Name="day08" ConfigName="Release"/>
+      <Project Name="day08" ConfigName="Release"/>
+      <Project Name="day09" ConfigName="Release"/>
+      <Project Name="day09" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

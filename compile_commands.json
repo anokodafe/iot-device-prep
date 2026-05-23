@@ -1,9 +1,41 @@
 [{
-		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c",
-		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01",
-		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day08\\stringManipulation.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day08",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day08\\stringManipulation.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day08\\stringManipulation.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day07\\stringFunctions.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day07",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day07\\stringFunctions.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day07\\stringFunctions.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day00\\variables.c",
 		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day00",
 		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day00\\variables.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day00\\variables.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day06\\calculator.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day06",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day06\\calculator.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day06\\calculator.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day04\\TicTacToe.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day04",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day04\\TicTacToe.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day04\\TicTacToe.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day05\\TemperatureConverter.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day05",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day05\\TemperatureConverter.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day05\\TemperatureConverter.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day03\\functions.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day03",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day03\\functions.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day03\\functions.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day09\\stringMan.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day09",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day09\\stringMan.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\day09\\stringMan.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day02\\Functions.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day02",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day02\\Functions.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day02\\Functions.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c",
+		"directory":	"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c\" -o \"C:\\Users\\E L I T E\\Documents\\iot-device-prep\\c-practice\\day01\\rainfall.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}]
