@@ -23,3 +23,30 @@ desktop.ini
 # Modern C textbook (you don't need to share the PDF)
 ModernC.pdf
 *.pdf
+
+*.lnk
+*.project
+Makefile
+compile_commands.json
+.clang-format
+.clangd
+
+
+# CodeLite files
+*.project
+*.workspace
+*.mk
+Makefile
+compile_commands.json
+
+# Auto-generated config
+.clang-format
+.clangd
+
+# Windows shortcuts
+*.lnk
+
+# Compiled output
+*.exe
+output.exe
+build-Debug/
